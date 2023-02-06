@@ -1,0 +1,44 @@
+.crud {
+    padding: 50px;
+}
+
+.btn-primary {
+    background-color: #2B3035 !important;
+    border-color: #2B3035 !important;
+}
+
+.crud-table {
+    width: 50%;
+    height: auto;
+    margin-top: 30px;
+}
+
+.crud-thead {
+    background: #32383E;
+    color: white;
+    height: 50px;
+    padding: 10px;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+    padding: 15px;
+}
+
+.crud-tbody {
+    background-color: #ebebeb;
+}
+
+.edit-btn,
+.delete-btn {
+    width: 65px;
+    border: none;
+    background: #545E68;
+    color: white;
+    height: 30px;
+    border-radius: 5px;
+}
