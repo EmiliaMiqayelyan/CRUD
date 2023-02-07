@@ -21,7 +21,7 @@ function Create() {
     phone: "",
   });
 
-  const crudlist = useSelector((state) => state.datas.value);
+  const crudlist = useSelector((state) => state.value);
   const dispatch = useDispatch();
 
   const onRemove = (id) => {
